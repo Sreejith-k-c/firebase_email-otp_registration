@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785697501268",
+    "project_id": "white-soft-6ba26",
+    "storage_bucket": "white-soft-6ba26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785697501268:android:74e61cee85f5f3fd0dfdc1",
+        "android_client_info": {
+          "package_name": "com.white.soft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NHz5Su4cm6C6jI8WQLl6WEUEL0UPIzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
